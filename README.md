@@ -43,7 +43,6 @@ python3 decrypt_xor.py
 No external libraries are required.
 
 
-```
 
 ## ✅ Flag Format
 
