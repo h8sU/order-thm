@@ -30,6 +30,13 @@ Using this known plaintext (known-plaintext attack), we were able to **recover t
 Make sure you have Python 3 installed, then run:
 
 ```bash
+# Step 1: Clone the repository
+git clone https://github.com/h8sU/order-thm.git
+
+# Step 2: Enter the directory
+cd order-thm
+
+# Step 3: Run the script
 python3 decrypt_xor.py
 ```
 
